@@ -1,5 +1,5 @@
 //Creator:Alexander Rayer
-//Program:Dog Daycare
+//Program:Dog Daycare Receipt Calculator
 
 #include <iostream>
 #include <string>
